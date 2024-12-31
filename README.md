@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **React Js**
+<!-- - 🌱 I’m currently learning **React Js** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Tayyab-Awan](https://github.com/Muhammad-Tayyab-Awan)
 
-- 📝 I regularly write articles on [https://infowithawan.com](https://infowithawan.com)
+- 📝 I regularly write articles on [https://infowithawan.com](https://infowithawan.com/blogs)
 
 - 📫 How to reach me **https://web.facebook.com/m.tayyab.rAwan26**
 
