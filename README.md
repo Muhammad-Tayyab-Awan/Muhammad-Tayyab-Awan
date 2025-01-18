@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 </h3>
   <a href="https://user-badge.committers.top/pakistan/Muhammad-Tayyab-Awan"><img src="https://user-badge.committers.top/pakistan/Muhammad-Tayyab-Awan.svg" /></a>
   
-<h3>GitHub Trophies</h3>h3>
+<h3>GitHub Trophies</h3>
 <img src="https://github-trophies.vercel.app/?username=Muhammad-Tayyab-Awan&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
