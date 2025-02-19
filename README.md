@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="/README-UR.md">اردو</a>
 &nbsp;&nbsp;&nbsp;
-<a href="/README-UR.md">عربی</a>
+<a href="/README-AR.md">عربی</a>
 </h4>
 
 <p align="center">
