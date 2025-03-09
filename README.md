@@ -10,15 +10,15 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-tayyab-awan/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tayyab-awan/" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-tayyab-awan" height="30" width="40" />
 </a>
-<a href="https://fb.com/infowithawan" target="blank">
+<a href="https://fb.com/m.tayyab.rawan26" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.tayyab.rawan26" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/infowithawan/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.tayyab.rawan26/" height="30" width="40" />
+<a href="https://www.instagram.com/m.tayyab.rawan26/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.tayyab.rawan26" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/@infowithawan" target="blank">
+<a href="https://www.youtube.com/@mtayyabrawan" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@infowithawan" height="30" width="40" />
 </a>
 <a href="https://x.com/m_tayyabrAwan26" target="blank">
