@@ -1,13 +1,11 @@
 <h1 align="center">✨ Muhammad Tayyab ✨</h1>
 <h3 align="center">MERN Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; WordPress Developer</h3>
 
----
 
 <h4 align="center">
   🌎 <a href="/README.md">English</a> &nbsp;&nbsp; | &nbsp;&nbsp;  📖 <a href="/README-UR.md">اردو</a> &nbsp;&nbsp; | &nbsp;&nbsp; 🕌 <a href="/README-AR.md">عربی</a>
 </h4>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-tayyab-awan/" target="_blank">
@@ -27,7 +25,6 @@
   </a>
 </p>
 
----
 
 <h3 align="left">Languages :</h3>
 <p align="center">
@@ -55,7 +52,6 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> </a>
 </p>
 
----
 
 <h3 align="center">📊 Stats</h3>
 <p align="center">
@@ -64,14 +60,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Tayyab-Awan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
----
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Muhammad-Tayyab-Awan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
 
 <h3 align="center">🎖 Badges</h3>
 <p align="center">
@@ -80,7 +74,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Tayyab-Awan&bg_color=000105&color=ffffff&line=37a939&point=0e7500&area=true&hide_border=true" alt="GitHub Activity Graph" />
