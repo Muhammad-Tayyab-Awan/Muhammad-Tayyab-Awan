@@ -1,4 +1,6 @@
-<img src="./assets/images/myPhoto.jpg" height="150" style="display:block;margin:1rem auto;border-radius:100%;"/>
+<div align="center">
+<img src="./assets/images/myPhoto.jpg" height="150"/>
+</div>
 <h1 align="center">✨ محمد طیب ✨</h1>
 <h3 align="center">مرن اسٹیک ڈویلپر &nbsp;&nbsp;|&nbsp;&nbsp; ورڈپریس ڈویلپر</h3>
 
