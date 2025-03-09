@@ -1,3 +1,4 @@
+<img src="./assets/images/myPhoto.jpg" height="150" style="display:block;margin:1rem auto;border-radius:100%;"/>
 <h1 align="center">✨ Muhammad Tayyab ✨</h1>
 <h3 align="center">MERN Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; WordPress Developer</h3>
 

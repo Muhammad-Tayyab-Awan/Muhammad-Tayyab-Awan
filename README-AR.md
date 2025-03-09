@@ -1,3 +1,4 @@
+<img src="./assets/images/myPhoto.jpg" height="150" style="display:block;margin:1rem auto;border-radius:100%;"/>
 <h1 align="center">✨ محمد طيب ✨</h1>
 <h3 align="center">مطور مرن ستاك &nbsp;&nbsp;|&nbsp;&nbsp; مطور ووردبريس</h3>
 
