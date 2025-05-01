@@ -3,6 +3,7 @@
 <img src="./assets/images/myPhoto.jpg" height="150"/>
 </div>
 <h1 align="center">✨ Muhammad Tayyab ✨</h1>
+<h1 align="center"> Free Palestine </h1>
 <h3 align="center">MERN Stack Developer &nbsp;&nbsp;|&nbsp;&nbsp; WordPress Developer</h3>
 
 
