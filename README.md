@@ -16,16 +16,16 @@
   <a href="https://www.linkedin.com/in/mtayyabrawan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/m.tayyab.rawan26" target="_blank">
+  <a href="https://fb.com/mtayyabrawan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/m.tayyab.rawan26/" target="_blank">
+  <a href="https://www.instagram.com/mtayyabrawan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@mtayyabrawan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://x.com/m_tayyabrAwan26" target="_blank">
+  <a href="https://x.com/mtayyabrawan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
